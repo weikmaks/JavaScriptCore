@@ -1,6 +1,10 @@
 //1
 //2
 //3
+<<<<<<< HEAD
+=======
+//27.01
+>>>>>>> lesson_27
 function Cars(brandName, model, productionYear) {
 	this.brandName = brandName;
 	this.model = model;
